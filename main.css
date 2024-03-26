@@ -34,7 +34,6 @@ body {
     color: #e15f41;
 }
 
-<<<<<<< HEAD
 #sobre-o-restaurante {
     background-color: #FFEAE6;
     
@@ -42,7 +41,8 @@ body {
 
 h2 {
     font-family: Pacifico, cursive;
-=======
+}
+
 .nav-cardapio .nav-link.active,
 #fale-conosco button {
     background-color: #e15f41;
@@ -66,5 +66,4 @@ h2 {
     .carousel-item img {
         height: 280px;
     }
->>>>>>> 993b9c3a1ee9c3d505b5fa2166c7e57e09058704
 }
